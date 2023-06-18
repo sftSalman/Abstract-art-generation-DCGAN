@@ -1,4 +1,6 @@
 # Abstruct-art-generation-DCGAN
+
+E:\s1\testDCGAN\tensorboard.png
 Welcome to the GitHub repository dedicated to generating mesmerizing abstract art using the power of Deep Convolutional Generative Adversarial Networks (DCGANs) and the Artbence dataset. This repository provides an all-inclusive framework for creating captivating abstract artworks inspired by the Artbence collection.
 
 The Artbence dataset, meticulously curated and compiled, serves as the foundation for training the DCGAN model. This dataset consists of a vast array of abstract art images, carefully selected to capture the essence of diverse abstract art styles and techniques. By leveraging this unique dataset, users can generate abstract art pieces that embody the essence and beauty of the Artbence collection.
