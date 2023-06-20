@@ -29,10 +29,8 @@ here are our parameters
 Once the DCGAN model is trained, users can utilize the trained generator network to generate new abstract art pieces inspired by the Artbence collection. The repository offers example code demonstrating how to generate high-quality abstract images using the trained model. Users can experiment with different noise inputs, control the level of randomness, or generate multiple images in a single run to explore the breadth of artistic possibilities.
 Here are generated images :
 
-![generated_18](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/9d0ae263-b04d-4426-9ad3-a32982ff8b01)
+![generated_18](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/9d0ae263-b04d-4426-9ad3-a32982ff8b01)![generated_13](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/464916f8-239a-42c9-8c5d-2c8dcae8e070)![generated_11](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/4588b50c-6527-4f7d-97eb-d13d2dec5c03)![generated_0](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/a91ea0b5-5141-42ed-ab03-1027aced2a33)![generated_7](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/136a0198-0d8a-40db-b0b0-3787c89c1621)
 
-
-![generated_0](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/a91ea0b5-5141-42ed-ab03-1027aced2a33)
 
 
 ![generated_14](https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/fe52dd8a-1af7-4fb0-85d1-9c2d68aa6929)
