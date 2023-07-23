@@ -6,23 +6,13 @@ Welcome to the GitHub repository dedicated to generating mesmerizing abstract ar
 The Artbence dataset, meticulously curated and compiled, serves as the foundation for training the DCGAN model. This dataset consists of a vast array of abstract art images, carefully selected to capture the essence of diverse abstract art styles and techniques. By leveraging this unique dataset, users can generate abstract art pieces that embody the essence and beauty of the Artbence collection.
 
 
-DCGAN (Deep Convolutional Generative Adversarial Network) can be effectively used for generating satellite images. By leveraging deep convolutional neural networks, DCGANs can capture complex spatial dependencies and generate high-quality satellite images that exhibit realistic features.
 
-## Key Components
 
-1. **Generator**: The generator network in a DCGAN for satellite image generation takes random noise as input and gradually upsamples it through convolutional layers. It learns to transform the noise into realistic satellite images by capturing the intricate patterns and structures present in satellite data.
-
-2. **Discriminator**: The discriminator network is responsible for distinguishing between real satellite images and generated images. It takes both real satellite images from a training dataset and generated images from the generator as input. The discriminator uses convolutional layers to extract features and make accurate classifications.
+To achieve the generation of mesmerizing abstract art, we employ Deep Convolutional Generative Adversarial Networks (DCGANs). DCGANs are a powerful class of neural networks designed specifically for image synthesis tasks. They consist of two networks: a generator and a discriminator, which work in tandem to produce high-quality and realistic image.
 
 ## Training Process
 
 During training, the generator and discriminator networks compete against each other in a game-like setting. The generator aims to produce satellite images that can deceive the discriminator into classifying them as real, while the discriminator strives to correctly classify between real and generated images. This adversarial training process leads to the generator learning to produce increasingly convincing satellite images.
-
-## Loss Functions
-
-DCGANs for satellite image generation typically use loss functions to guide the training process. The generator minimizes the discriminator's ability to differentiate between real and generated images, often employing binary cross-entropy loss. Conversely, the discriminator maximizes its ability to accurately classify real and generated images.
-
-# Key components of this repository include:
 
 # Data preparation:
 We have collected the dataset from artbench image folder. We need to customize the dataset for training in gan . The dataset has 60,000 images of artwork from 10 distinctive artistic styles, with 5,000 training images and 1,000 testing images per style.
