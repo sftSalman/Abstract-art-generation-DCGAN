@@ -37,9 +37,6 @@ here are our parameters
 -FEATURES_DISC = 64
 -FEATURES_GEN = 64`
 
-# Art generation:
-Once the DCGAN model is trained, users can utilize the trained generator network to generate new abstract art pieces inspired by the Artbence collection. The repository offers example code demonstrating how to generate high-quality abstract images using the trained model. Users can experiment with different noise inputs, control the level of randomness, or generate multiple images in a single run to explore the breadth of artistic possibilities.
-Here are generated images :
 
 
 
