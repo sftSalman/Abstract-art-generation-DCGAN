@@ -1,7 +1,8 @@
 # Abstruct-art-generation-DCGAN -
 
 
-                                     https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/269de706-2a52-4a70-b3eb-9c5e90d5c0ec
+
+https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/41159e89-21f5-42e2-b662-89cc37148f7e
 
 
 
