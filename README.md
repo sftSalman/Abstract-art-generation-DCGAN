@@ -1,5 +1,8 @@
 # Abstruct-art-generation-DCGAN -
-                                               https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/21803cb4-c381-4fd9-a05c-7dd8c844db49
+
+
+                                     https://github.com/sftSalman/Abstract-art-generation-DCGAN/assets/33355278/269de706-2a52-4a70-b3eb-9c5e90d5c0ec
+
 
 
 Welcome to our GitHub repository! Here, we focus on creating mesmerizing abstract art using powerful Deep Convolutional Generative Adversarial Networks (DCGANs) and the Artbence dataset. This framework allows you to easily generate captivating abstract artworks inspired by the diverse Artbence collection.
